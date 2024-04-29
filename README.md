@@ -22,7 +22,10 @@
    ```bash
    pip install -r requirements.txt
    ```
-
+4. Настройте .env файл. В PINTEREST_SESS должно быть ваше значение _pinterest_sess из куки проще всего его получить через розширение в браузере или используя [curlconverter](https://curlconverter.com/python/)
+    ```env
+    PINTEREST_SESS = ""
+    ```
 ## Использование
 1. Запустите скрипт:
    ```bash

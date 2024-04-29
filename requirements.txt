@@ -3,3 +3,4 @@ aiohttp
 aiofiles
 bs4
 pillow
+dotenv
